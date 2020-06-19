@@ -1,0 +1,26 @@
+.App {
+    padding-top: 36px;
+  text-align: center;
+}
+
+.BotonBuscar-wrapper{
+    display: flex;
+    justify-content: center;
+}
+
+.MoviesList{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 16px;
+}
+
+.MovieList-Item{
+    margin-bottom: 20px;
+    width: 48%;
+}
+
+.button-is-info{
+    display: flex;
+    justify-content: center;
+}
